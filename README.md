@@ -48,3 +48,6 @@ The game interface is in Polish and provides a menu with the following options:
 
 The console output is colorized using the `colorama` library, which adds visual appeal to the game.
 
+## Documentation
+
+The program includes detailed documentation provided through docstrings in the code. 
